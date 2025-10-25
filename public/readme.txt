@@ -1,0 +1,1 @@
+Logo placeholder is provided as logo.png in the root of the zip's public folder.
